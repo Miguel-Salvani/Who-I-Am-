@@ -4,8 +4,8 @@
 
 ## About Me:
 - Grade 9 at Cosby High!
-- Currently learning coding in C++
-- Making cool circuits and learning AI!
+- Currently learning AI and C++!
+- Making cool circuits!
 
 ## My Skills:
 - C++

@@ -8,7 +8,7 @@
 - Making cool circuits!
 
 ## My Skills:
-- 'C++'
+- C++
 
 ## Socials:
 [Email:] (mailto: salvanimeb@gmail.com)

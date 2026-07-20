@@ -18,4 +18,4 @@ I'm a high school student passionate about technology — from writing code to b
 
 
 ## Socials:
-[Email:] 📧 (salvanimeb@gmail.com)
+[Email 📧:] (salvanimeb@gmail.com)

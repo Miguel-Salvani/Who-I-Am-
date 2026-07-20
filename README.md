@@ -1,6 +1,6 @@
 # Miguel-Salvani
 
-# Hi, I'm Miguel!
+# Hello, I'm Miguel!
 
 ## About Me:
 - Grade 9 at Cosby High!

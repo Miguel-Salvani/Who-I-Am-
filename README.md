@@ -11,4 +11,4 @@
 - 'C++'
 
 ## Socials:
-[Email] (mailto:salvanimeb@gmail.com)
+[Email:] (mailto: salvanimeb@gmail.com)
